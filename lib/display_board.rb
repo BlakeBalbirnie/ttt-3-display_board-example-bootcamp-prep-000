@@ -3,11 +3,7 @@
 def display_board
   puts ["   ", "|   |", "   "]
   puts "-----------"
-  puts "   "
-  puts "|   |"
-  puts "   "
+uts ["   ", "|   |", "   "]
   puts "-----------"
-  puts "   "
-  puts "|   |"
-  puts "   "
+uts ["   ", "|   |", "   "]
 end
